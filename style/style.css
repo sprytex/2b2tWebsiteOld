@@ -117,57 +117,19 @@ body {
     height: 175px;
 }
 
-.spacer0 {
-    height: 5px;
-}
-
-.spacer {
-    height: 10px;
-}
-
-.spacer2 {
-    height: 60px;
-}
-
-.spacer3 {
-    height: 40px;
-}
-
-.spacer4 {
-    height: 140px;
-}
-
-.spacer5 {
-    height: 110px;
-}
-
-.spacer6 {
-    height: 100px;
-}
-
-.spacer7 {
-    height: 20px;
-}
-
-.spacer8 {
-    height: 15px;
-}
-
-.spacer9 {
-    height: 70px;
-}
-
-.spacer10 {
-    height: 160px;
-}
-
-.spacer11 {
-    height: 650px;
-}
-
-.spacer12 {
-    height: 120px;
-}
+.spacer0 { height: 5px; }
+.spacer { height: 10px; }
+.spacer2 { height: 60px; }
+.spacer3 { height: 40px; }
+.spacer4 { height: 140px; }
+.spacer5 { height: 110px; }
+.spacer6 { height: 100px; }
+.spacer7 { height: 20px; }
+.spacer8 { height: 15px; }
+.spacer9 { height: 70px; }
+.spacer10 { height: 160px; }
+.spacer11 { height: 650px; }
+.spacer12 { height: 120px; }
 
 .selected {
     font-size: 9pt;
