@@ -15,10 +15,7 @@
         <script src="/script/jquery.scrollTo.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="/script/slide.js" type="text/javascript" charset="utf-8"></script>
         
-    </head>
-    
-    <body onload="javascript:loadPlayerCount();">
-    
+    </head>    
         <!-- Holder, this container is used to position everything in the centre of the users screen -->
         <div class="holder">
         
@@ -203,6 +200,7 @@ function loadPlayerCount() {
         $('#playerCount').html('Error retrieving player count.');
     });
 }
+loadPlayerCount();
 </script>
 
 </body>
