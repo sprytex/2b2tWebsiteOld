@@ -1,5 +1,8 @@
 body {
-    background: url('/images/1.png') center  / cover fixed;
+    background-image: url('/images/1.png');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
     font-family: Helvetica, sans-serif;
     font-size: 11px;
     color: #EBE2CA;
@@ -39,7 +42,7 @@ body {
     float: left;
     box-shadow: 1px 2px 10px #000000;
     border-radius: 5px;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 .navigation {
