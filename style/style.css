@@ -1,14 +1,10 @@
 body {
-    background: url('/images/1.png') center fixed;
+    background: url('/images/1.png') center  / cover fixed;
     font-family: Helvetica, sans-serif;
     font-size: 11px;
     color: #EBE2CA;
     margin: 0px;
     padding: 0px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
 
 .holder {
