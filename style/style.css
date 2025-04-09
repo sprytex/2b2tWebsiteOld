@@ -70,6 +70,8 @@ body {
     width: 150px;
     margin: 0px 6px;
     height: 555px;
+    word-wrap: break-word; 
+    overflow-wrap: break-word; 
 }
 
 .con2 {
